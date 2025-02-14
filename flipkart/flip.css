@@ -1,0 +1,309 @@
+body{
+    margin: 0;
+    background-color: rgb(242,243,247,255);
+}
+#q{
+    background-color: rgb(41, 114, 242);
+    height: 50px;
+}
+#ooo{
+    margin-left: 1130px; 
+    border: 0px;
+    position: fixed;
+    top: 15px;
+    background-color: rgb(41, 114, 242);
+    color: white;
+}
+#w{
+    margin-top: 2px;
+    height: 38px;
+    margin-left: 100px;
+}
+#e{
+    position: fixed;
+    top: 8px;
+    margin-left: 15px;
+    width: 1000px;
+    height: 32px;
+}
+#t{
+    margin-left: 1015px;
+    position: fixed;
+    top: 9px;
+    border: 0px;
+    height: 30px;
+    width: 50px;
+    background-color: yellow;
+}
+#r{
+    height: 25px;
+}
+#y{
+    position: fixed;
+    left: 80px;
+    width: 870px;
+    height: 480px;
+    background-color: white;
+}
+#u{
+    position: fixed;
+    left: 965px;
+    height: 280px;
+    width: 500px;
+    background-color: white;
+}
+#i{
+    position: fixed;
+    top: 345px;
+    left: 965px;
+    width: 500px;
+    height: 145px;
+    background-color: white;
+}
+#o{
+    position: fixed;
+    top: 80px;
+    left: 115px;
+    height: 90px;
+}
+#p{
+    position: fixed;
+    top: 80px;
+    left: 230px;
+}
+#a{
+    position: fixed;
+    top: 103px;
+    left: 230px;
+    font-size: 13px;
+}
+#s{
+    position: fixed;
+    top: 130px;
+    left: 230px;
+    font-size: 13px;
+}
+#d{
+    position: fixed;
+    top: 132px;
+    left: 330px;
+    height: 13px;
+}
+#z{
+    position: fixed;
+    top: 270px;
+    left: 115px;
+    height: 90px;
+}
+#m{
+    margin-top: 180px;
+}
+#n{
+    margin-top: 195px;
+    height: 2px;
+}
+#x{
+    position: fixed;
+    top: 275px;
+    left: 230px;
+}
+#c{
+    position: fixed;
+    top: 297px;
+    left: 230px;
+    font-size: 13px;
+}
+#v{
+    position: fixed;
+    top: 325px;
+    left: 230px;
+    font-size: 13px;
+}
+#pp{
+    position: fixed;
+    top: 80px;
+    left: 650px;
+    font-size: 14px;
+}
+#xx{
+    position: fixed;
+    top: 275px;
+    left: 650px;
+    font-size: 14px;
+}
+#f{
+    position: fixed;
+    top: 150px;
+    left: 230px;
+    font-size: 18px;
+}
+#qq{
+    position: fixed;
+    top: 345px;
+    left: 230px;
+    font-size: 18px;
+}
+#ff{
+    position: fixed;
+    top: 154px;
+    left: 280px;
+    font-size: 13px;
+}
+#fff{
+    position: fixed;
+    top: 154px;
+    left: 330px;
+    font-size: 13px;
+    color: rgba(69,118,72,255);
+}
+#qqq{
+    position: fixed;
+    top: 348px;
+    left: 280px;
+    font-size: 13px;
+}
+#qqqq{
+    position: fixed;
+    top: 348px;
+    left: 330px;
+    font-size: 13px;
+    color: rgba(69,118,72,255);
+}
+#ww{
+    position: fixed;
+    top: 190px;
+    left: 230px;
+}
+#ee{
+    position: fixed;
+    top: 380px;
+    left: 230px;
+}
+#su{
+    position: fixed;
+    top: 460px;
+    left: 365px;
+    height: 45px;
+    width: 250px;
+    border: 5px;
+}
+#sub{
+    position: fixed;
+    top: 460px;
+    left: 640px;
+    height: 45px;
+    width: 250px;
+    background-color: rgba(250,101,26,255);
+    color: white;
+    border: 5px;
+}
+#aa{
+    margin-top: 50px;
+}
+#zz{
+    position: fixed;
+    top: 65px;
+    left: 990px;
+}
+#ss{
+    position: fixed;
+    top: 120px;
+    left: 990px;
+}
+#dd{
+    position: fixed;
+    top: 170px;
+    left: 990px;
+}
+#g{
+    position: fixed;
+    top: 120px;
+    left: 1380px;
+}
+#h{
+    position: fixed;
+    top: 170px;
+    left: 1380px;
+}
+#j{
+    margin-top: 110px;
+}
+#k{
+    position: fixed;
+    top: 230px;
+    left: 990px;
+}
+#l{
+    position: fixed;
+    top: 230px;
+    left: 1380px;
+}
+#ll{
+    margin-top: 58px;
+}
+#kk{
+    position: fixed;
+    top: 290px;
+    left: 990px;
+    color: rgba(69,118,72,255);
+}
+#zzz{
+    position: fixed;
+    top: 365px;
+    left: 990px;
+    font-weight: bold;
+    font-size: 18px;
+}
+#xxx{
+    position: fixed;
+    top: 395px;
+    left: 990px;
+}
+#xxxx{
+    position: fixed;
+    top: 400px;
+    left: 1100px;
+    height: 13px;
+}
+#cc{
+    margin-top: 88px;
+}
+#ccc{
+    position: fixed;
+    top: 450px;
+    left: 990px;
+    font-size: 16px;
+    font-weight: 300;
+}
+#vvv{
+    position: fixed;
+    top: 520px;
+    left: 1000px;
+    height: 40px;
+}
+#nnn{
+    position: fixed;
+    top: 520px;
+    left: 1060px;
+}
+#bbb{
+    margin-top: 570px;
+}
+#mm{
+    position: fixed;
+    top: 660px;
+    left: 150px;
+    font-size: 12px;
+}
+#mmm{
+    position: fixed;
+    top: 660px;
+    left: 1050px;
+    font-size: 12px;
+}
+#mmmm{
+    text-decoration: none;
+}
+#mmmmm{
+    text-decoration: none;
+}
